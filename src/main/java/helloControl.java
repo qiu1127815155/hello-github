@@ -13,7 +13,7 @@ public class helloControl {
     @RequestMapping("/hello")
     @ResponseBody
     String home() {
-        return "Hello ,spring boot!20190724-17:50";
+        return "Hello ,spring boot!20190724-18:00";
     }
 
     public static void main(String[] args) throws Exception {
